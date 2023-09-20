@@ -1,4 +1,7 @@
 <?php
+echo " <h3>     Break on Condition  :      </h3> ";
+?>
+<?php
 function fibonacci($n) {
     $fibonacciSeries = [];
     $fibonacciSeries[0] = 0;

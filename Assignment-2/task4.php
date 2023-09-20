@@ -1,4 +1,8 @@
 <?php
+echo " <h3>    Fibonacci Series printing using a Function :      </h3> ";
+?>
+
+<?php
 function printFibonacci($numTerms) {
     $fibonacciSeries = [];
     $fibonacciSeries[0] = 0;
