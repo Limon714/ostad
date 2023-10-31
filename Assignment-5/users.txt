@@ -1,0 +1,4 @@
+limonislam4u|limon4u714@gmail.com|$2y$10$EPfBeXQ22bw5ciiXN1fyJeBI6nxb/mYu.LipZ9hZZH5TDBOLKKNMC
+admin|admin@example.com|$2y$10$ltfCbli/GBDMdFl3VdCv5.d08F5RM1GA4xz/neQlE75XFYoPtFRTq
+User|user@gmail.com|$2y$10$nd7voNPyIWBEAdfTvikuIOfBB95iVeCNjXOAl9HS/EpNVYVm4//iq
+Manager|manager@gmail.com|$2y$10$V0L6w.QAplW/2lmlxvFzbuU5iU8c2RPZ7E1YKu4OlwcKTlKY3h0Va
