@@ -1,4 +1,4 @@
-##Visit http://127.0.0.1:8000/hello in your browser, and you should see the message 'Hello, Laravel!'.
+##  Visit http://127.0.0.1:8000/hello in your browser, and you should see the message 'Hello, Laravel!'.
 ```
  http://127.0.0.1:8000/hello
 ```
