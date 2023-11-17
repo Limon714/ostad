@@ -15,8 +15,14 @@ use App\Http\Controllers\UserController;
 */
 
 Route::get('/', function () {
-    return view('index');
+    return view('form');
 });
+
+Route::get('/login', function () {
+    return view('auth.login');
+});
+
+
 
 Route::get('/hello', [UserController::class, 'helloLaravel']);
 Route::post('/post', [PostController::class, 'store']);
